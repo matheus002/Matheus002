@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there 👋 I'm Matheus Henrique</h1>
  <h3 align="center"> Developer 💻, student 🎓 and coffee lover ☕ </h3>
 
-- 🔭 I’m currently working at **Elleven Tecnologia**
-- 🌱 I’m currently learning **Docker, Java/Spring, Golang and Microservices**
+- 🔭 I’m currently working at **Invillia**
+- 🌱 I’m currently learning **Docker, Java/Spring and Microservices**
 - 💬 Ask me about **Java and Javascript**
 - 📫 How to reach me: **mhos91491@gmail.com**
 - ⚡ Fun fact: ...
